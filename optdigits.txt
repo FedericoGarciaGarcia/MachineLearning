@@ -1,0 +1,2 @@
+All input attributes are integers in the range 0..16.
+The last attribute is the class code 0..9
