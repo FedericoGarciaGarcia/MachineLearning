@@ -38,5 +38,6 @@ Logistic Regression was used with the sum of intensities dimensionality reductio
 
 The results were:
 
-Eout = 0.09961 (accuracy rate is 90.039%).
-Ein = 0.08553 (accuracy rate is 91.447%).
+*E<sub>out</sub>* = 0.09961 (accuracy rate is 90.039%)
+
+*E<sub>in</sub>* = 0.08553 (accuracy rate is 91.447%)
