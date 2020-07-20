@@ -1,6 +1,6 @@
 # Machine Learning
 
-Machine Learning projects done in University.
+Machine Learning projects done in University with Python and scikit-learn.
 
 ## Handwritten digits
 
